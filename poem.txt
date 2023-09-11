@@ -2,4 +2,4 @@ Love is
 
 patient,
 kind,
-does not envy
+does not envy,
